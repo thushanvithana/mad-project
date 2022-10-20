@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/drawable/ic12334.xml" value="0.2315" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.175" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/drawable/ic_baseline_event_available_24787875.xml" value="0.1135" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24345345345.xml" value="0.1475" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/drawable/ic_baseline_post_add_2478.xml" value="0.2555" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/layout/activity_main2.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/layout/activity_main3.xml" value="0.1326388888888889" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/layout/activity_main4.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/thush/AndroidStudioProjects/MyApplication10/app/src/main/res/layout/m.xml" value="0.20436083796494228" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
